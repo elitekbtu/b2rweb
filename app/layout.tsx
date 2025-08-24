@@ -5,7 +5,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Back2Root',
-  description: 'Back to roots website'
+  description: 'Back to roots website',
+  generator: 'programmers',
 }
 
 export default function RootLayout({
